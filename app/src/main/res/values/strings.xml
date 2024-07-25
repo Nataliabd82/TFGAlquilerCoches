@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alquiler de Coches</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_signUp">SignUpActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+</resources>
